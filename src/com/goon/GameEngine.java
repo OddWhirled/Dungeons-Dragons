@@ -19,4 +19,7 @@ public class GameEngine {
         return player;
     }
     
+    public String getRekt() {
+        return "REKT M8!";
+    }
 }
