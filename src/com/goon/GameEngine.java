@@ -15,5 +15,7 @@ public class GameEngine {
 
     private Player player;
 
-    
+    public Player getPlayer() {
+        return player;
+    }
 }
