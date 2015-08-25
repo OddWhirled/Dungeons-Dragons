@@ -22,4 +22,9 @@ public class GameEngine {
     public String getRekt() {
         return "REKT M8!";
     }
+    
+    public void arrrmatey() {
+        
+        
+    }
 }
